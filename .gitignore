@@ -1,0 +1,8 @@
+*.class
+.metadata
+*.iml
+*.eml
+.idea/*
+.idea
+target/*
+logs/*
